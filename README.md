@@ -1,7 +1,7 @@
 # Tutorial-on-configuring-a-deep-learning-environment-for-novices
 配置深度学习环境教程-以配置Real-ESRGAN为例
 <br>
-文档目录<br>
+<b>文档目录<b><br>
 |-- Part 1开发环境搭建（硬件+软件）<br>
 |------1.安装cuda<br>
 |------2.安装Anaconda3<br>
