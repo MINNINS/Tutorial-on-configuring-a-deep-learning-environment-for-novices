@@ -1,15 +1,26 @@
 # Tutorial-on-configuring-a-deep-learning-environment-for-novices
 配置深度学习环境教程-以配置[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)为例
 <br>
-<b>文档目录</b><br>
-|-- Part 1开发环境搭建（硬件+软件）<br>
-|------1.安装cuda<br>
-|------2.安装Anaconda3<br>
-|-- Part 2算法部署与运行<br>
-|-------1.下载代码包<br>
-|-------2.安装pytorch<br>
-|-------3.安装requirements.txt其他依赖<br>
-|-------4.运行<br>
+<span class="
+glyphicon glyphicon-folder-open" aria-hidden="true">  <b>文档目录</b> </span>
+<br>
+
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-- Part 1开发环境搭建（硬件+软件）<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|------1.安装cuda<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|------2.安装Anaconda3<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-- Part 2算法部署与运行<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-------1.下载代码包<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-------2.安装pytorch<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-------3.安装requirements.txt其他依赖<br>
+<span class="
+glyphicon glyphicon-ok-circle" aria-hidden="true"></span>|-------4.运行<br>
 
 
 ----
